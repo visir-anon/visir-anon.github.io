@@ -1,0 +1,45 @@
+body {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+.footer a {
+  color: #000;
+}
+
+.dnerf {
+  font-variant: small-caps;
+}
+
+.publication-title {
+  font-family: 'Google Sans', sans-serif;
+}
+
+.overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.25);
+}
+
+.hero-body {
+  position: relative;
+  z-index: 1;
+}
+
+.main-video {
+  display: block;
+  width: 100%;
+  border: 2px solid #bbb;
+  border-radius: 10px;
+  background: #000;
+}
+
+.abstract-text {
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
+
+.figure {
+  display: block;
+  width: 100%;
+  border-radius: 10px;
+}
